@@ -1,3 +1,7 @@
+# Description:  
+C++ module is used to calculate the Route that the buses will take to reach the End/Destination Stop.  
+The respective Route is plotted on the Google MAPS.  
+
 # Install the Modules:
 
 1.  -- npm install.
@@ -13,7 +17,7 @@ npm start
 http://localhost:8080
 
 
-#Demonstration:  
+# Demonstration:  
 https://www.youtube.com/watch?v=-Kq4IX7R3NQ&feature=youtu.be
 
 
