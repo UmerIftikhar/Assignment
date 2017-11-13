@@ -2,9 +2,9 @@
 C++ module is used to calculate the Route that the buses will take to reach the End/Destination Stop.  
 The respective Route is plotted on the Google MAPS.  
 
-LINK:
-https://www.dropbox.com/s/e2iuol2zqy11zsv/Assignment.zip?dl=0  
-
+![Architecture DIAGRAM](Pic1.PNG?raw=true "Architecture Diagram")
+![Architecture DIAGRAM](Pic2.PNG?raw=true "Architecture Diagram")
+![Architecture DIAGRAM](Pic3.PNG?raw=true "Architecture Diagram")
 
 # Install the Modules:
 
