@@ -36,6 +36,10 @@ Stops:
 
 
 
+https://docs.google.com/viewer?url=https://drive.google.com/file/d/14EAQoHRoJ0BMO1daLaEFFp7E01Wjs8GX/view?usp=sharing
+
+
+
 # Working:
 1-- When the page is loaded, function updateAllBuses() is called from the controller "manageStops".  
 2-- updateAllBuses() calls the $interval(function(){ updateTheData(); }, 2500), where updateTheData() updates the position of every individual bus every 2.5 seconds.  
