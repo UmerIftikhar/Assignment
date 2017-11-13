@@ -36,8 +36,8 @@ Stops:
 
 
 
-https://docs.google.com/viewer?url=http://nbviewer.jupyter.org/github/UmerIftikhar/Assignment/blob/master/UmerReport.pdf
 
+![CLASS DIAGRAM](https://docs.google.com/viewer?url=http://nbviewer.jupyter.org/github/UmerIftikhar/Assignment/blob/master/UmerReport.pdf "Class Diagram")
 
 
 # Working:
