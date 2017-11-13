@@ -37,9 +37,6 @@ Stops:
 
 
 
-![CLASS DIAGRAM](https://docs.google.com/viewer?url=http://nbviewer.jupyter.org/github/UmerIftikhar/Assignment/blob/master/UmerReport.pdf "Class Diagram")
-
-
 # Working:
 1-- When the page is loaded, function updateAllBuses() is called from the controller "manageStops".  
 2-- updateAllBuses() calls the $interval(function(){ updateTheData(); }, 2500), where updateTheData() updates the position of every individual bus every 2.5 seconds.  
