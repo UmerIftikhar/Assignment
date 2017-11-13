@@ -36,7 +36,7 @@ Stops:
 
 
 
-https://docs.google.com/viewer?url=https://drive.google.com/file/d/14EAQoHRoJ0BMO1daLaEFFp7E01Wjs8GX/view?usp=sharing
+https://docs.google.com/viewer?url=http://nbviewer.jupyter.org/github/UmerIftikhar/Assignment/blob/master/UmerReport.pdf
 
 
 
