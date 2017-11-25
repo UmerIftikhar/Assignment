@@ -4,6 +4,7 @@ The respective Route is plotted on the Google MAPS.
 # Demonstration:  
 https://www.youtube.com/watch?v=BYwgOspBD9k  
 
+# Architecture:  
 
 ![Architecture DIAGRAM](Pic1.PNG?raw=true "Architecture Diagram")
 ![Architecture DIAGRAM](Pic2.PNG?raw=true "Architecture Diagram")
